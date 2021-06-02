@@ -15,7 +15,7 @@ Syphre defines the following algorithms & methods for each use.
 | Key derivation \(KDF\) | BLAKE3 |
 | Pseudorandom generator \(PRF\) | BLAKE3 |
 | Message authentication codes \(MAC\) | BLAKE3 |
-| Extendible output function \(XOF\) | BLAKE3 |
+| Extendable output function \(XOF\) | BLAKE3 |
 | Key exchange \(for generating a shared secret\) | DHKE |
 | Symmetric encryption | XChaCha20 |
 | Digital signatures | Ed25519 |
